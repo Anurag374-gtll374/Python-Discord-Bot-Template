@@ -108,7 +108,7 @@ class general(commands.Cog, name="general"):
     @commands.command(name="server")
     async def server(self, context):
         await context.send("I sent you a private message!")
-        await context.author.send("Join my discord server by clicking here: https://discord.gg/Vddcy76")
+        await context.author.send("Join my discord server by clicking here: https://discord.gg/6TJXvkZ")
 
     @commands.command(name="poll")
     async def poll(self, context, *args):
