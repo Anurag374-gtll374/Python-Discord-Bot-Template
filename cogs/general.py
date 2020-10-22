@@ -20,7 +20,7 @@ class general(commands.Cog, name="general"):
         )
         embed.add_field(
             name="Owner:",
-            value="Krypton#2188",
+            value="༄ᶦᶰᵈ᭄✿ƛƝƲƦƛƓ࿐ᴮᵒˢˢ#1886",
             inline=True
         )
         embed.add_field(
