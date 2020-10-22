@@ -1,8 +1,8 @@
 # Can be multiple prefixes, like this: ("!", "?")
-BOT_PREFIX = ("YOUR_BOT_PREFIX_HERE")
-TOKEN = "YOUR_TOKEN_HERE"
-APPLICATION_ID = "YOUR_APPLICATION_ID"
-OWNERS = [123456789, 987654321]
+BOT_PREFIX = ("*")
+TOKEN = "Njg3MDUxNDAzNzYzMzg0MzQ1.XmgIew.a-sMCxsbhhO51X3D3Pr4yheX4Hs"
+APPLICATION_ID = "687051403763384345"
+OWNERS = [522728463413542925]
 BLACKLIST = []
  # Default cogs that I have created for the template
 STARTUP_COGS = [
